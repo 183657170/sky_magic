@@ -1,6 +1,9 @@
 package org.sunkang.designPattern.simpleFactory;
 /**
  * 测试工厂类
+ * 简单工厂模式：
+ * 		多种对象实现 统一的接口
+ * 		通过传入参数选择创建某种对象
  * @author sunkang
  *
  */
